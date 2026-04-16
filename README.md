@@ -3,6 +3,8 @@
 ## 📌 Visão Geral
 Este projeto consiste no desenvolvimento de um relatório gerencial elaborado no Power BI, utilizando a base de dados **Sample Financials**. O objetivo principal foi aplicar recursos avançados de navegação e design para criar uma experiência de análise fluida e profissional.
 
+[./Dashboard_PowerBI_Service.PNG]
+
 ## 🛠️ Recursos Implementados
 
 ### 1. Design e Layout
@@ -30,7 +32,7 @@ O relatório foi publicado no **Power BI Service**, permitindo o consumo dos dad
 
 | Dashboard Principal | Detalhamento |
 | :---: | :---: |
-| ![Preview](./Dashboard_PowerBI_Service.PNG) | ![Preview Detalhes](./c1.PNG) |
+| ![Preview](./Dashboard_PowerBI_Service.PNG) | ![Preview Detalhes](./Detalhamento.PNG) |
 
 ---
 
@@ -39,4 +41,4 @@ O relatório foi publicado no **Power BI Service**, permitindo o consumo dos dad
 * `/Imagens`: Screenshots do dashboard para visualização rápida.
 
 ---
-**Desenvolvido por Diego Zares**
+**Desenvolvido por Diego Floriano**
